@@ -1,5 +1,7 @@
 # Rabies Dog Classifier
 
+ Dataset location : https://drive.google.com/drive/folders/11spVlO3cOHtMpED5wGnUurG8l8_xE4I-?usp=sharing
+ 
  ## About
 Rabies is a deadly viral disease that affects the nervous system of mammals, including dogs. It
 is transmitted through the saliva of an infected animal, usually through a bite. The disease can
